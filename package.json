@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gunnyk/web-crawler#readme",
   "dependencies": {
-    "csv-parse": "^4.16.3"
+    "csv-parse": "^4.16.3",
+    "xlsx": "^0.18.5"
   }
 }
