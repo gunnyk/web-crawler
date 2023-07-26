@@ -1,0 +1,22 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunnyk/web-crawler.git"
+  },
+  "author": "Gunn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunnyk/web-crawler/issues"
+  },
+  "homepage": "https://github.com/gunnyk/web-crawler#readme",
+  "dependencies": {
+    "csv-parse": "^4.16.3"
+  }
+}
